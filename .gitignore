@@ -1,0 +1,65 @@
+# --------------------
+# Flutter & Dart
+# --------------------
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.melos_tool/
+
+# Flutter generated iOS/Android build artifacts
+**/ios/Flutter/.last_build_id
+**/doc/api/
+
+# Symbol maps and debug files
+app.*.symbols
+app.*.map.json
+
+# --------------------
+# Android Studio
+# --------------------
+*.iml
+*.ipr
+*.iws
+.idea/
+.android/
+
+# Android build outputs
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# --------------------
+# VS Code
+# --------------------
+# You may include .vscode if you want to share project settings
+.vscode/
+
+# --------------------
+# System & Misc
+# --------------------
+.DS_Store
+*.class
+*.log
+*.pyc
+*.swp
+.history
+.svn/
+migrate_working_dir/
+.atom/
+.build/
+.buildlog/
+
+# --------------------
+# macOS
+# --------------------
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj
+*.xcconfig
+*.xcsettings
