@@ -10,7 +10,7 @@ This is a modern, clean Flutter login screen featuring:
 
 ### 📸 Preview
 
-![screenshot](screenshots/login_ui.png)
+![screenshot](Screenshots/LoginUI/Focusly.png)
 
 ### 📁 Folder Structure
 
