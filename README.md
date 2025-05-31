@@ -1,21 +1,25 @@
-# 🔐 Focusly – Slide-to-Unlock Login UI (Flutter)
+# Focusly – Minimalist Login Screen UI 🌿
 
-A **modern, aesthetic login screen** built with Flutter — featuring a **frosted glass card**, **interactive swipe-to-login**, and **social login buttons**. Designed with clean UX, minimalism, and portfolio impact in mind.
+This is a modern, clean Flutter login screen featuring:
 
-![Focusly Screenshot](../Screenshots/LoginUI/focusly_1.png)
+- Frosted glass effect
+- Full-screen background image
+- Custom social login buttons
+- Minimal input fields
+- Fully responsive layout
 
----
+### 📸 Preview
 
-## ✨ Features
+![screenshot](screenshots/login_ui.png)
 
-- 🎨 **Frosted Glass UI** with soft blur
-- 📧 Minimal Email & Password form
-- 👉 **Slide-to-Unlock** login interaction
-- 🌁 Aesthetic background image (Unsplash)
-- 🔐 Social login buttons (Google, Apple, Facebook)
-- 📱 Fully **responsive** and **reusable** components
+### 📁 Folder Structure
 
----
+- `lib/` – Main UI code
+- `assets/` – Backgrounds, icons
+- `screenshots/` – Screens for GitHub display
 
-## 📁 Project Structure
+### 🚀 Get Started
 
+```bash
+flutter pub get
+flutter run
